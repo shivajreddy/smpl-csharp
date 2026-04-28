@@ -1,0 +1,105 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Ii]64/
+bld/
+[Bb]in[Pp]laces/
+
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.rsuser
+
+# Visual Studio Code
+.vscode/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+
+# NuGet
+*.nupkg
+.nuget/
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Build directories
+[Bb]uild/
+[Ll]og/
+out/
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+
+# VS Cache
+.vs/
+
+# Rider
+.idea/
+
+# Package Files
+*.jar
+*.war
+*.ear
+*.zip
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotrepresent/
+
+# Common build artifacts
+*.exe
+*.dll
+*.pdb
+*.exe.config
+*.xml
+*.cache
+
+# Test Results
+[TestResults]
+*.trx
+coverage/
+coverage.lock.json
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+
+# SQL
+*.mdf
+*.ldf
+
+# Application files
+appsettings.*
+!appsettings.json
+!appsettings.Development.json
