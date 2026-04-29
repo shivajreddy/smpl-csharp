@@ -1,7 +1,5 @@
 using System.Globalization;
 
-using Mat = System.Math;
-
 namespace Script;
 
 class Program
@@ -11,7 +9,6 @@ class Program
         Console.WriteLine("hello there");
         var p = new Person { Name = "smpl", age = 30 };
         p.Greet();
-        Mat.Max(10, 20);
     }
 }
 
