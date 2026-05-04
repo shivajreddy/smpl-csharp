@@ -6,7 +6,6 @@ class Program
     {
         var p1 = new PersonRecord("smpl", 30);
         Console.WriteLine(p1);
-
         // var p2 = new PersonClass() { Name = "smpl", Age = 30 };
         // var p3 = new PersonClass();
         var p4 = new PersonClass("smpl", 30);
